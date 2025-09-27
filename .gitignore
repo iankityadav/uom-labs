@@ -1,2 +1,2 @@
-calc.exe
-.vscode/tasks.json
+*.exe
+.vscode
